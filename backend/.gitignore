@@ -1,0 +1,3 @@
+node_modules
+src/issues/infra/Json/files/issues.json
+src/issues/infra/Json/files/uploads/*
